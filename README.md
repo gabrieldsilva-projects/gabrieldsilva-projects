@@ -4,11 +4,11 @@
 
 Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o ensino médio na escola E.E Prof Arlindo Silvestre, com o curso técnico em informática. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas na UNINTER.
 <p align="left">
-    <a href="https://github.com/gabrieldsilva-projects?tab=repositories&sort=stargazers">
+        <a href="https://www.linkedin.com/in/gabriel-da-silva-8a1407418/">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/Github.com/gabrieldsilva-projects?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/gabrieldsilva-projects?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/gabrieldsilva-projects?tab=followers">
