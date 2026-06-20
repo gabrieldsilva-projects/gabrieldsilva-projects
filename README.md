@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Da Silva
+# 🧑🏽‍💻 Gabriel Da Silva
 
 **`Desenvolvedor Junior`**
 
