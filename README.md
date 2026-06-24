@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o ensino médio na escola E.E Prof Arlindo Silvestre, com o curso técnico em informática. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (Uninter).
+Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o ensino médio na escola E.E Prof Arlindo Silvestre, com o curso técnico em DS. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (Uninter).
 <p align="left">
 
 ### 🤖 Linguagens e Tecnologias
