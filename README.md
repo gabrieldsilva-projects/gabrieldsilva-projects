@@ -19,9 +19,9 @@ Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!-- 📊 Estatísticas -->
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -37,4 +37,4 @@ Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldsilva-projects&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
