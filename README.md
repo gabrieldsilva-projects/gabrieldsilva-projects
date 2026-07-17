@@ -16,15 +16,6 @@ Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html.svg" 
-/>
-
 <br/>
 <br/>
 
