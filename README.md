@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o ensino médio na escola E.E Prof Arlindo Silvestre, com o curso técnico em DS. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (Uninter).
+Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o ensino médio na escola E.E Prof Arlindo Silvestre com o curso técnico em Desenvolvimento de Sistema pela Fundação Indaiatubana de Educação e Cultura (FIEC). Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (Uninter).
 <p align="left">
 
 ### 🤖 Linguagens e Tecnologias
@@ -21,7 +21,7 @@ Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o
 
 <!-- 📊 Estatísticas -->
 
-<!-- <p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -37,4 +37,4 @@ Me chamo Gabriel da Silva, tenho 18 anos e sou natural de Limeira/SP. Concluí o
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldsilva-projects&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p> -->
+</p> 
