@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Gabriel da Silva
 
-**`Desenvolvedor Júnior | Estudante de ADS`**
+**`Desenvolvedor Júnior | Estudante de TADS`**
 
 Olá! Sou Gabriel da Silva, tenho 18 anos e sou de Limeira/SP.
 
