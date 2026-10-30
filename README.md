@@ -10,7 +10,7 @@ Atuo na área de TI, com suporte e infraestrutura, e estou aprofundando meus con
 
 ### 🚀 O que estou desenvolvendo
 
-Estou construindo o **ControlMat**, um sistema web para controle de materiais e estoque.
+Estou construindo o **[ControlMat](https://github.com/gabrieldsilva-projects/controle-materiais)**, um sistema web para controle de materiais e estoque.
 
 O projeto tem como proposta organizar o cadastro de materiais, as entradas e saídas e o acompanhamento de saldos e reposições. Atualmente, estou desenvolvendo o backend do cadastro de materiais com **Python, Flask e SQLite**.
 
