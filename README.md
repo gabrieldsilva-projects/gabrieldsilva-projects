@@ -19,8 +19,6 @@ O projeto tem como proposta organizar o cadastro de materiais, as entradas e sa√
 <p align="left">
   <img alt="Python" title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;
-  <img alt="Flask" title="Flask" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  &nbsp;
   <img alt="SQLite" title="SQLite" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   &nbsp;
   <img alt="HTML5" title="HTML5" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
