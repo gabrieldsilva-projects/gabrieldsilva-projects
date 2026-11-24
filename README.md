@@ -23,6 +23,8 @@ O projeto tem como proposta organizar o cadastro de materiais, as entradas e saÃ
   &nbsp;
   <img alt="CSS3" title="CSS3" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   &nbsp;
+   <img alt="JAVA" title="Java" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  &nbsp;
 </p>
 
 ### ğŸ“š Aprendizado atual
