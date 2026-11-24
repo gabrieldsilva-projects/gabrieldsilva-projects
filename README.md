@@ -8,12 +8,6 @@ Concluí o ensino médio na E.E. Prof. Arlindo Silvestre e o curso técnico em D
 
 Atuo na área de TI, com suporte e infraestrutura, e estou aprofundando meus conhecimentos em desenvolvimento de software por meio de estudos e projetos práticos.
 
-### 🚀 O que estou desenvolvendo
-
-Estou construindo o **[ControlMat](https://github.com/gabrieldsilva-projects/controle-materiais)**, um sistema web para controle de materiais e estoque.
-
-O projeto tem como proposta organizar o cadastro de materiais, as entradas e saídas e o acompanhamento de saldos e reposições. Atualmente, estou desenvolvendo o backend do cadastro de materiais com **Python, Flask e SQLite**.
-
 ### 💻 Linguagens e tecnologias
 
 <p align="left">
@@ -36,4 +30,4 @@ O projeto tem como proposta organizar o cadastro de materiais, as entradas e sa�
 
 ---
 
-💡 Construindo projetos, aprendendo na prática e compartilhando minha evolução.
+💡 Construindo minha trajetória na tecnologia, aprendendo continuamente e buscando novos desafios.
