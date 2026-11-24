@@ -29,8 +29,8 @@ O projeto tem como proposta organizar o cadastro de materiais, as entradas e sa�
 
 ### 📚 Aprendizado atual
 
-- Desenvolvimento backend com Python.
-- Banco de dados e integração com aplicações web.
+- Fundamentos de programação POO em Java.
+- Banco de dados.
 - Organização de código e boas práticas de desenvolvimento.
 - Aplicação dos conhecimentos da faculdade em projetos próprios.
 
