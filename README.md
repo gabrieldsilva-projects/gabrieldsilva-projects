@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Gabriel da Silva
+# 👨🏾‍💻 Gabriel da Silva
 
 **`Desenvolvedor Júnior | Estudante de TADS`**
 
