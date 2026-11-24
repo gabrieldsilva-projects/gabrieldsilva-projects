@@ -23,7 +23,8 @@ Atuo na área de TI, com suporte e infraestrutura, e estou aprofundando meus con
 
 ### 📚 Aprendizado atual
 
-- Fundamentos de programação POO em Java.
+- Fundamentos de programação em Python
+- Programação POO em Java.
 - Banco de dados.
 - Organização de código e boas práticas de desenvolvimento.
 - Aplicação dos conhecimentos da faculdade em projetos próprios.
