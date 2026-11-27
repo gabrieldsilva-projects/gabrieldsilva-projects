@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior | Estudante de TADS`**
 
-Olá! Sou Gabriel da Silva, tenho 18 anos e sou de Limeira/SP.
+Olá! Sou Gabriel da Silva, tenho 19 anos e sou de Limeira/SP.
 
 Concluí o ensino médio na E.E. Prof. Arlindo Silvestre e o curso técnico em Desenvolvimento de Sistemas pela Fundação Indaiatubana de Educação e Cultura (FIEC). Atualmente, curso Tecnologia em Análise e Desenvolvimento de Sistemas na Uninter.
 
